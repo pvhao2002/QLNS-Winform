@@ -1,0 +1,6 @@
+E:\workspace\pham van hieu\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+E:\workspace\pham van hieu\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+E:\workspace\pham van hieu\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\workspace\pham van hieu\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\workspace\pham van hieu\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+E:\workspace\pham van hieu\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb

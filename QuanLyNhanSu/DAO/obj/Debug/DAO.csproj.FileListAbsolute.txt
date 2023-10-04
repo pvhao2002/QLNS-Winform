@@ -1,0 +1,9 @@
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\bin\Debug\DAO.dll
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\bin\Debug\DAO.pdb
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\bin\Debug\DTO.dll
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\bin\Debug\DTO.pdb
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\obj\Debug\DAO.dll
+E:\workspace\pham van hieu\QuanLyNhanSu\DAO\obj\Debug\DAO.pdb
